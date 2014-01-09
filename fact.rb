@@ -1,5 +1,4 @@
-#	Program	to	find	the	factorial	of	a	number	
-#	Save	this	as	fact.rb	
+#	fact.rb	
 	
 def	fact(n)	
 		if	n	==	0	
